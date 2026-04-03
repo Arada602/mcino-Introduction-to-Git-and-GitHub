@@ -1,3 +1,4 @@
+
 # Introduction to Git and GitHub
 
 ## Simple Interest Calculator
@@ -17,3 +18,5 @@ _© 2023 XYZ, Inc._
 =======
 # coding-project-template
 
+=======
+# coding-project-template
